@@ -1,0 +1,9 @@
+{
+    "name": "file-manager-cli-state",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node --test tests/statesTest.js"
+    }
+}

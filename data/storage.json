@@ -1,0 +1,26 @@
+{
+  "article.md": {
+    "name": "article.md",
+    "paragraphs": [
+      "## Architecture Guide",
+      "Layered tier decoupling structures guarantee high maintainability."
+    ],
+    "updatedAt": "2026-11-13T09:22:36.793Z"
+  },
+  "readme.md": {
+    "name": "readme.md",
+    "paragraphs": [
+      "##  Readme System",
+      "Console application state router online running smoothly."
+    ],
+    "updatedAt": "2026-11-13T09:22:36.795Z"
+  },
+  "homework.md": {
+    "name": "homework.md",
+    "paragraphs": [
+      "Мій перший рядок",
+      "Другий рядок"
+    ],
+    "updatedAt": "2026-11-13T09:24:10.014Z"
+  }
+}
